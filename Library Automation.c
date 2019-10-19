@@ -1,11 +1,3 @@
-/*	Project : Library Automation
-	Group Members(Name + CMS ID):
-
-		1) Farhaan Mukarram (246582)
-		2) Muhammad Talha Qadir (249918)
-		3) Muhammad Umer (246302)
-*/
-
 #include <stdio.h>
 #include<string.h>
 
